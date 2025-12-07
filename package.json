@@ -1,6 +1,6 @@
 {
   "name": "ngrx-uml-example-app-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ngrx-uml api example app",
   "main": "dist/index.js",
   "scripts": {
